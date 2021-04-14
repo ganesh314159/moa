@@ -1,2 +1,2 @@
-# moa
-This is tutorial to install manim on android
+# MoA
+This is Project *MoA i.e. Manim on Android.
